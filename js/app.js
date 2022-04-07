@@ -1,9 +1,10 @@
 var url = window.location.href;
-var pwaLocation = '/twitter/sw.js';
+var pwaLocation = '/cronosfm/twitter/sw.js';
  
 if(navigator.serviceWorker){
     if(url.includes('localhost')){
         pwaLocation = '/sw.js';
     }
-navigator.serviceWorker.register(pwaLocation);
+    console.log(pwaLocation);
+    navigator.serviceWorker.register(pwaLocation);
 }
