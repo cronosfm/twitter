@@ -1,5 +1,5 @@
 var url = window.location.href;
-var pwaLocation = '/cronosfm/twitter/sw.js';
+var pwaLocation = '/twitter/sw.js';
  
 if(navigator.serviceWorker){
     if(url.includes('localhost')){
