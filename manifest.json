@@ -1,6 +1,6 @@
 {
-    "short_name": "PWA",
-    "name": "Universidad Tecnológica de Torreón",
+    "short_name": "Axolotter",
+    "name": "Twitter pero con ajolotes",
     "start_url": "index.html",
     "background_color": "#3498db",
     "display": "standalone",
@@ -8,9 +8,9 @@
     "theme_color": "#3498db",
     "icons": [
         {
-            "src": "img/icons/icon.png",
+            "src": "img/ajoloteIcon.png",
             "type": "image/png",
-            "sizes": "72x72"
+            "sizes": "256x256"
         }
       ]     
 }

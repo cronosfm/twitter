@@ -8,17 +8,17 @@ const APP_SHELL = [
     '/',
     'index.html',
     'css/style.css',
-    'img/favicon.ico',
-    'img/avatars/hulk.jpg',
+    'img/salamander.ico',
+    'img/ajolote.jpg',
     'js/app.js',    
-    'js/sw-acces.js'  
+    'js/sw-access.js'  
 ];
 const APP_SHELL_INMUTABLE = [
     'https://fonts.googleapis.com/css?family=Quicksand:300,400',
     'https://fonts.googleapis.com/css?family=Lato:400,300',
     'https://use.fontawesome.com/releases/v5.3.1/css/all.cs',
-    'css/animate.cs',
-    'js/libs/jquery.js'
+    //'css/animate.cs',
+    //'js/libs/jquery.js'
 ];
 	
 self.addEventListener('install', event => {
