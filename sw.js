@@ -18,10 +18,10 @@ const APP_SHELL_INMUTABLE = [
     'https://fonts.googleapis.com/css?family=Lato:400,300',
     'https://use.fontawesome.com/releases/v5.3.1/css/all.cs',
     'https://netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css',
-    'http://www.croop.cl/UI/twitter/images/doug.jpg',
-    'http://www.croop.cl/UI/twitter/images/carl.jpg',
-    'http://www.croop.cl/UI/twitter/images/russel.jpg',
-    'http://www.croop.cl/UI/twitter/images/carl.jpg'
+    'https://www.croop.cl/UI/twitter/images/doug.jpg',
+    'https://www.croop.cl/UI/twitter/images/carl.jpg',
+    'https://www.croop.cl/UI/twitter/images/russel.jpg',
+    'https://www.croop.cl/UI/twitter/images/carl.jpg'
     //'css/animate.cs',
     //'js/libs/jquery.js'
 ];
